@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/studing-react-rellax/static/css/main.892b628c.chunk.css",
+    "main.js": "/studing-react-rellax/static/js/main.f6d9ba1c.chunk.js",
+    "main.js.map": "/studing-react-rellax/static/js/main.f6d9ba1c.chunk.js.map",
+    "runtime-main.js": "/studing-react-rellax/static/js/runtime-main.cfb60613.js",
+    "runtime-main.js.map": "/studing-react-rellax/static/js/runtime-main.cfb60613.js.map",
+    "static/js/2.3e6a4ce7.chunk.js": "/studing-react-rellax/static/js/2.3e6a4ce7.chunk.js",
+    "static/js/2.3e6a4ce7.chunk.js.map": "/studing-react-rellax/static/js/2.3e6a4ce7.chunk.js.map",
+    "index.html": "/studing-react-rellax/index.html",
+    "precache-manifest.932adb2ebd5716d4fc6b5f51d88b2453.js": "/studing-react-rellax/precache-manifest.932adb2ebd5716d4fc6b5f51d88b2453.js",
+    "service-worker.js": "/studing-react-rellax/service-worker.js",
+    "static/css/main.892b628c.chunk.css.map": "/studing-react-rellax/static/css/main.892b628c.chunk.css.map",
+    "static/js/2.3e6a4ce7.chunk.js.LICENSE.txt": "/studing-react-rellax/static/js/2.3e6a4ce7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfb60613.js",
+    "static/js/2.3e6a4ce7.chunk.js",
+    "static/css/main.892b628c.chunk.css",
+    "static/js/main.f6d9ba1c.chunk.js"
+  ]
+}
